@@ -4,8 +4,12 @@ Thanks for stopping by. As you can see from my profile, I am Jeff. I am currentl
 Qoute I love : </br>
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system. - John Gall
 
-🌱 I’m currently learning ... </br>
-Currently I am getting back into learning frontend development. I went to a coding bootcamp in the end of 2019, but with the lack of job offers, and losing motivation I took a break from it for while to just work in IT and get my life back in order. Now that I have found more resemblance of balance, I am going through Full Stack Open which has been both fun and refreshing.
+🌱 I’m currently learning in 2024... </br>
+[] - [Full Stack Open](https://fullstackopen.com/en/) </br>
+[] - Refactoring [Document Checker I developed for UVU Veteran Success Center](https://vscdoc.netlify.app/)</br>
+[] - Learning D&D</br>
+[] - Getting into writing</br>
+[] - Living a balance life</br>
 
 Something I enjoy ... </br>
 My favorite things to do at work are process improvements. My creative juices start to flow when I see a jumbled mess of documentation, templates, or lack there of, and processes that could be improved upon to increase workflow and simplicity. Turning a jumbled complex process that is hard to follow and implement is the best thing in the world to boil down and make simple so even a child can follow it.
