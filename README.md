@@ -4,7 +4,7 @@ Thanks for stopping by. As you can see from my profile, I am Jeff. I am currentl
 Qoute I love : </br>
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system. - John Gall
 
-🌱 I’m currently learning in 2024... </br>
+🌱 Things I am currently working towards in 2024... </br>
 [] - [Full Stack Open](https://fullstackopen.com/en/) </br>
 [] - Refactoring [Document Checker I developed for UVU Veteran Success Center](https://vscdoc.netlify.app/)</br>
 [] - Learning D&D</br>
