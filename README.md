@@ -5,8 +5,7 @@ Qoute I love : </br>
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system. - John Gall
 
 🌱 Things I am currently working towards in 2024... </br>
-[] - [Full Stack Open](https://fullstackopen.com/en/) </br>
-[] - Refactoring [Document Checker I developed for UVU Veteran Success Center](https://vscdoc.netlify.app/)</br>
+[] - [MOOC Java Programming](https://java-programming.mooc.fi/) </br>
 [] - Learning D&D</br>
 [] - Getting into writing</br>
 [] - Living a balance life</br>
