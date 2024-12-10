@@ -1,6 +1,5 @@
 ### Hi there 👋
-Thanks for stopping by. As you can see from my profile, I am Jeff. I am currently a QA Analyst and studying programming in my free time.
-I really enjoy testing software, and I think I am going to do down the SDET path and combine software development with software testing. 
+Thank you for visiting my profile. My name is Jeff, and I am currently working as a QA Analyst while studying programming in my spare time. I have a strong passion for software testing, and I am planning to pursue a career as a Software Development Engineer in Test (SDET), where I can combine my skills in both software development and testing.
 
 Qoute I love : </br>
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system. - John Gall
@@ -11,7 +10,7 @@ A complex system that works is invariably found to have evolved from a simple sy
 - [ ] Living a balance life</br>
 
 Something I enjoy ... </br>
-My favorite things to do at work are process improvements. My creative juices start to flow when I see a jumbled mess of documentation, templates, or lack there of, and processes that could be improved upon to increase workflow and simplicity. Turning a jumbled complex process that is hard to follow and implement is the best thing in the world to boil down and make simple so even a child can follow it.
+My favorite aspect of my work is driving process improvements. I thrive when I encounter disorganized documentation, incomplete templates, or processes that can be streamlined to enhance efficiency and simplicity. There's nothing more satisfying than transforming a complex, convoluted process into something straightforward and easy to follow, making it so simple that even a child could understand and implement it.
 
 
 <!--
