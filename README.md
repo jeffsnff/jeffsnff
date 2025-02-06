@@ -18,14 +18,14 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 
 
 #### Books to Read
-[ ] Blood, sweat, and pixels : the triumphant, turbulent stories behind how video games are made by Schreier, Jason
-[ ] The Phoenix projec By Gene Kim, Kevin Behr, George Spafford 
-[ ] The Unicorn Project by Gene Kim
-[ ] Hackers & Painters by Paul Graham
-[ ] Lessons Learned in Software Testing: A Context-Driven Approach 1st Edition by Cem Kaner, James Bach, Bret Pettichord
-[ ] Agile Testing: A Practical Guide for Testers and Agile Teams 1st Edition by Lisa Crispin, Janet Gregory
-[ ] Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing 1st Edition by Elisabeth Hendrickson
-[ ] The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing by Kristin Jackvony
+- [ ] Blood, sweat, and pixels : the triumphant, turbulent stories behind how video games are made by Schreier, Jason
+- [ ] The Phoenix projec By Gene Kim, Kevin Behr, George Spafford 
+- [ ] The Unicorn Project by Gene Kim
+- [ ] Hackers & Painters by Paul Graham
+- [ ] Lessons Learned in Software Testing: A Context-Driven Approach 1st Edition by Cem Kaner, James Bach, Bret Pettichord
+- [ ] Agile Testing: A Practical Guide for Testers and Agile Teams 1st Edition by Lisa Crispin, Janet Gregory
+- [ ] Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing 1st Edition by Elisabeth Hendrickson
+- [ ] The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing by Kristin Jackvony
 
 
 
