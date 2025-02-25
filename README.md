@@ -18,7 +18,6 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 
 
 #### Books to Read
-- [ ] Blood, sweat, and pixels : the triumphant, turbulent stories behind how video games are made by Schreier, Jason
 - [ ] The Phoenix projec By Gene Kim, Kevin Behr, George Spafford 
 - [ ] The Unicorn Project by Gene Kim
 - [ ] Hackers & Painters by Paul Graham
@@ -28,7 +27,9 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 - [ ] The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing by Kristin Jackvony
 
 
-
+#### Books Read
+- [X] Blood, sweat, and pixels : the triumphant, turbulent stories behind how video games are made by Schreier, Jason
+  - This was a fun book to read and gave a look into the world of game development and how some games happened. I really enjoyed reading about Stardew Valley, but I think everyone really likes that story since that is what every game developer seems to want to do. I think it is wild that developers can spend a year or longer and not know if there game is "fun to play" up until the last few months before launch. I honestly don't know if I could handle that kind of stress in my life at a career. Also the fact that they will lay off when a game is launched then hire a few months later once they have an idea. That just seems really stupid to be honest. You think they would save more money, a run way perhaps, to keep from doing this trend.
 
 
 <!--
