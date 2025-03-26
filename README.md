@@ -18,7 +18,6 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 
 
 #### Books to Read
-- [ ] The Unicorn Project by Gene Kim
 - [ ] Hackers & Painters by Paul Graham
 - [ ] Lessons Learned in Software Testing: A Context-Driven Approach 1st Edition by Cem Kaner, James Bach, Bret Pettichord
 - [ ] Agile Testing: A Practical Guide for Testers and Agile Teams 1st Edition by Lisa Crispin, Janet Gregory
@@ -29,8 +28,10 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 #### Books Read
 - [X] Blood, sweat, and pixels : the triumphant, turbulent stories behind how video games are made by Schreier, Jason
   - This was a fun book to read and gave a look into the world of game development and how some games happened. I really enjoyed reading about Stardew Valley, but I think everyone really likes that story since that is what every game developer seems to want to do. I think it is wild that developers can spend a year or longer and not know if there game is "fun to play" up until the last few months before launch. I honestly don't know if I could handle that kind of stress in my life at a career. Also the fact that they will lay off when a game is launched then hire a few months later once they have an idea. That just seems really stupid to be honest. You think they would save more money, a run way perhaps, to keep from doing this trend.
-- [X] The Phoenix projec By Gene Kim, Kevin Behr, George Spafford
+- [X] The Phoenix Project By Gene Kim, Kevin Behr, George Spafford
   - The first four chapters of this book gave me such anxiety, that I was constatly getting up and telling my partnet what was happening. This was a great book to read and I am so happy I picked it up. The story that Bill and Parts Unlimited went through is not only stress inducing, but also knowledgable and fun. Some of my favorite parts is when he was meeting with Patty and Wes and they would be having discussions on how they are currently working and how they could improve it. I already used some of my Lean Six Sigma training from the Marines and the processes we used while working on AV8B aircraft in development, to improve processes at my place of employement and have gained significant improvements, but it is awesome to read about them from a book. I highly recommend this book to anyone, just because the first four chapters are again, anxiety riden and hard to stop reading.
+- [X] The Unicorn Project by Gene Kim
+  - Read this book right after the Phonix Project. It didn't get my heart racing as must as that book, but was still a good read. It did inspire me to write more at work, which I was trying to do to begin with, but I decided, because of this book that ever project I work on, I should have a task and I should update it constantly like my coworker developers do with user stories and bug work items. I helped create a process of setting up test environments for my team every sprint. I started off this role with trying to get the environment as finished as possible, but after reading about how the Data Hub team would configure the test environment to its most basic configuration, I decided that is what we should do as well. I suggested that we should configure it enough for smoke test and then for the regression test that we perform, it would be on the individual team members to make sure the correct reports and schemas are applied for testing that test case. The test environment configuration still takes a long time, but it has helped to get rid of some of the stuff we do not need.
 
 
 <!--
