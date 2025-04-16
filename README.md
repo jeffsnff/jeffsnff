@@ -23,6 +23,7 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 - [ ] Agile Testing: A Practical Guide for Testers and Agile Teams 1st Edition by Lisa Crispin, Janet Gregory
 - [ ] Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing 1st Edition by Elisabeth Hendrickson
 - [ ] The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing by Kristin Jackvony
+- [ ] Play Nice The Rise, Fall, and Future Of Blizzard Entertainment by Jason Schreier
 
 
 #### Books Read
