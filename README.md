@@ -23,7 +23,6 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 - [ ] Agile Testing: A Practical Guide for Testers and Agile Teams 1st Edition by Lisa Crispin, Janet Gregory
 - [ ] Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing 1st Edition by Elisabeth Hendrickson
 - [ ] The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing by Kristin Jackvony
-- [ ] Play Nice The Rise, Fall, and Future Of Blizzard Entertainment by Jason Schreier
 
 
 #### Books Read
@@ -33,6 +32,8 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
   - The first four chapters of this book gave me such anxiety, that I was constatly getting up and telling my partnet what was happening. This was a great book to read and I am so happy I picked it up. The story that Bill and Parts Unlimited went through is not only stress inducing, but also knowledgable and fun. Some of my favorite parts is when he was meeting with Patty and Wes and they would be having discussions on how they are currently working and how they could improve it. I already used some of my Lean Six Sigma training from the Marines and the processes we used while working on AV8B aircraft in development, to improve processes at my place of employement and have gained significant improvements, but it is awesome to read about them from a book. I highly recommend this book to anyone, just because the first four chapters are again, anxiety riden and hard to stop reading.
 - [X] The Unicorn Project by Gene Kim
   - Read this book right after the Phonix Project. It didn't get my heart racing as must as that book, but was still a good read. It did inspire me to write more at work, which I was trying to do to begin with, but I decided, because of this book that ever project I work on, I should have a task and I should update it constantly like my coworker developers do with user stories and bug work items. I helped create a process of setting up test environments for my team every sprint. I started off this role with trying to get the environment as finished as possible, but after reading about how the Data Hub team would configure the test environment to its most basic configuration, I decided that is what we should do as well. I suggested that we should configure it enough for smoke test and then for the regression test that we perform, it would be on the individual team members to make sure the correct reports and schemas are applied for testing that test case. The test environment configuration still takes a long time, but it has helped to get rid of some of the stuff we do not need.
+- [X] Play Nice The Rise, Fall, and Future Of Blizzard Entertainment by Jason Schreier
+  - This was a great read about Blizzard and the founders. Made me realize that Blizzard has had problems from pretty much the very beginning. If you are into games or Blizzard, this would be a fun book to read.
 
 
 <!--
