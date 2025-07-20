@@ -18,7 +18,6 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 
 
 #### Books to Read
-- [ ] Hackers & Painters by Paul Graham
 - [ ] Lessons Learned in Software Testing: A Context-Driven Approach 1st Edition by Cem Kaner, James Bach, Bret Pettichord
 - [ ] Agile Testing: A Practical Guide for Testers and Agile Teams 1st Edition by Lisa Crispin, Janet Gregory
 - [ ] Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing 1st Edition by Elisabeth Hendrickson
