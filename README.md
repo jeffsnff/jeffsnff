@@ -21,7 +21,6 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
 - [ ] Lessons Learned in Software Testing: A Context-Driven Approach 1st Edition by Cem Kaner, James Bach, Bret Pettichord
 - [ ] Agile Testing: A Practical Guide for Testers and Agile Teams 1st Edition by Lisa Crispin, Janet Gregory
 - [ ] Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing 1st Edition by Elisabeth Hendrickson
-- [ ] The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing by Kristin Jackvony
 
 
 #### Books Read
@@ -33,6 +32,8 @@ My favorite aspect of my work is driving process improvements. I thrive when I e
   - Read this book right after the Phonix Project. It didn't get my heart racing as must as that book, but was still a good read. It did inspire me to write more at work, which I was trying to do to begin with, but I decided, because of this book that ever project I work on, I should have a task and I should update it constantly like my coworker developers do with user stories and bug work items. I helped create a process of setting up test environments for my team every sprint. I started off this role with trying to get the environment as finished as possible, but after reading about how the Data Hub team would configure the test environment to its most basic configuration, I decided that is what we should do as well. I suggested that we should configure it enough for smoke test and then for the regression test that we perform, it would be on the individual team members to make sure the correct reports and schemas are applied for testing that test case. The test environment configuration still takes a long time, but it has helped to get rid of some of the stuff we do not need.
 - [X] Play Nice The Rise, Fall, and Future Of Blizzard Entertainment by Jason Schreier
   - This was a great read about Blizzard and the founders. Made me realize that Blizzard has had problems from pretty much the very beginning. If you are into games or Blizzard, this would be a fun book to read.
+- [X] The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing by Kristin Jackvony
+  - This was a short chapter book to read. I recommend reading 1 chapter a day 2 at most. You might want to go through it quicker because they are so short and DO ALL THE THINGS!! but I think it is better to digest things. I did skip a few chapters as well. Some of them were not relavant to me currently in my position or company, but if that ever changes, I can review them again.
 
 
 <!--
