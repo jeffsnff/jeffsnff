@@ -7,7 +7,7 @@ A complex system that works is invariably found to have evolved from a simple sy
 🌱 Things I am currently working towards in 2024... </br>
 - [x] [C# Basic](https://centria.github.io/basic-csharp/) </br>
 - [x] ISTQB Foundation Book ( not the cert ) </br>
-- [ ] [C# Players Guide](https://csharpplayersguide.com/) </br>
+- [x] [C# Players Guide](https://csharpplayersguide.com/) </br>
 - [ ] Living a balance life</br>
 
 Something I enjoy ... </br>
